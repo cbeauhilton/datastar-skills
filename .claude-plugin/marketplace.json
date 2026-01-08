@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "datastar-skills",
-  "description": "Datastar hypermedia framework skills for Claude Code",
+  "description": "Skills for Datastar and NATS JetStream",
   "owner": {
     "name": "Beau"
   },
@@ -16,6 +16,17 @@
       "source": "./datastar",
       "category": "development",
       "homepage": "https://data-star.dev"
+    },
+    {
+      "name": "nats-jetstream",
+      "description": "NATS JetStream persistence layer for distributed systems. Covers streams, consumers, work queues, fan-out, exactly-once delivery, event sourcing, and Go SDK patterns.",
+      "version": "1.0.0",
+      "author": {
+        "name": "NATS Community"
+      },
+      "source": "./nats-jetstream",
+      "category": "development",
+      "homepage": "https://docs.nats.io/nats-concepts/jetstream"
     }
   ]
 }

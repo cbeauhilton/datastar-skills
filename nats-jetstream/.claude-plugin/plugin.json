@@ -1,0 +1,8 @@
+{
+  "name": "nats-jetstream",
+  "version": "1.0.0",
+  "description": "NATS JetStream persistence layer for building distributed systems. Covers streams, consumers, work queues, exactly-once delivery, event sourcing, and Go SDK patterns.",
+  "author": {
+    "name": "NATS Community"
+  }
+}
