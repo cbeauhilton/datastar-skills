@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "datastar-skills",
+  "description": "Datastar hypermedia framework skills for Claude Code",
+  "owner": {
+    "name": "Beau"
+  },
+  "plugins": [
+    {
+      "name": "datastar",
+      "description": "Hypermedia framework for reactive web apps. Backend-driven UI with SSE, signals, and DOM morphing. Covers the Tao of Datastar philosophy, all data-* attributes, SSE events, and common patterns.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Datastar Community"
+      },
+      "source": "./datastar",
+      "category": "development",
+      "homepage": "https://data-star.dev"
+    }
+  ]
+}

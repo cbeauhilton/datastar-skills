@@ -1,0 +1,8 @@
+{
+  "name": "datastar",
+  "version": "1.0.0",
+  "description": "Hypermedia framework for reactive web apps. Backend-driven UI with SSE, signals, and DOM morphing.",
+  "author": {
+    "name": "Datastar Community"
+  }
+}
